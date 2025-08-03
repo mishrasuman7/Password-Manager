@@ -1,4 +1,4 @@
-# 🔐 Password Manager App
+y# 🔐 Password Manager App
 
 A secure, responsive, and user-friendly Password Manager built with the MERN stack (MongoDB, Express.js, React, Node.js) and styled using Tailwind CSS. This app allows users to store, manage, and access their passwords safely in an encrypted database.
 
@@ -39,7 +39,7 @@ A secure, responsive, and user-friendly Password Manager built with the MERN sta
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/password-manager.git
+git clone https://github.com/mishrasuman7/password-manager.git
 cd password-manager
 
 ### 2. Install Dependencies
