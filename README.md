@@ -28,11 +28,6 @@ A secure, responsive, and user-friendly Password Manager built with the MERN sta
 
 ---
 
-## 📸 Screenshots
-
-> _Include 2–3 screenshots or a demo GIF here._
-
----
 
 ## ⚙️ Installation
 
